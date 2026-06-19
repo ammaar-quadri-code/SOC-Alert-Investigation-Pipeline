@@ -1,0 +1,10 @@
+{
+  "alert_id": "SIM-001",
+  "rule": "Suspicious PowerShell",
+  "host": "win-lab-01",
+  "user": "student1",
+  "src_ip": "203.0.113.10",
+  "process": "powershell.exe",
+  "command": "powershell.exe -EncodedCommand aGVsbG8=",
+  "severity": "high"
+}
