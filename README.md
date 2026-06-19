@@ -247,4 +247,5 @@ Cybersecurity Enthusiast | SOC Analyst Aspirant | Security Research Learner
 
 ## Note
 
-This repository is maintained for learning, experimentation, and portfolio purposes. The implementations are intended to demonstrate cybersecurity investigation concepts and workflows in a controlled environment.
+This repository is maintained for learning, experimentation, and portfolio purposes. 
+The implementations are intended to demonstrate cybersecurity investigation concepts and workflows in a controlled environment.
